@@ -16,7 +16,7 @@
       "type": "n8n-nodes-base.rssFeedReadTrigger",
       "typeVersion": 1,
       "position": [
-        -1080,
+        -1200,
         1920
       ],
       "id": "897b3fd0-e306-4ad1-8c96-4f5c6f94c63b",
